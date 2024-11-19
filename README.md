@@ -6,7 +6,7 @@
 
 
 ### Change log
-**个人精力有限不再维护**
+2024年11月19日 d0ublecl1ck fork
 ___
 * v6.1.6
   * 修复ARM Mac启动日志出错的问题 THX to <a href="https://github.com/megachweng/Dict2Anki/pull/108">@xbot</a>  
